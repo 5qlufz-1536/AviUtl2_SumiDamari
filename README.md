@@ -8,6 +8,9 @@ AviUtl2用の墨だまり加工スクリプトです。
 
 ## 導入方法
 
+> [!IMPORTANT]
+> [AviUtl2 カタログ](https://github.com/Neosku/aviutl2-catalog) からもご利用いただけます
+
 1. Releases から最新版の zip ファイルをダウンロードします。
 2. zip を展開します。
 3. `墨だまり.anm2` を AviUtl2 の `Script` フォルダに入れます。
